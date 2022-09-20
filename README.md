@@ -7,7 +7,7 @@ Hello！各位小伙伴，大家好！
 
 > **✨技能**
 
-语言：Java、Python、JavaScript\n
+语言：Java、Python、JavaScript
 数据库：MySQL、Redis
 前端框架：React、Vue
 后端框架：SpringBoot、Mybatis-Plus、SpringCloud ...
