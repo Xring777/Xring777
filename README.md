@@ -9,19 +9,3 @@ Hello！各位小伙伴，大家好！
 目前还是一位没有过实习经历的本科生，努力学习中📖；
 
 时间不在于你拥有多少，而在于你怎样使用。
-
-> **✨技能**
-
-语言：Java、Python、JavaScript
-
-数据库：MySQL、Redis
-
-前端框架：React、Vue
-
-后端框架：SpringBoot、Mybatis-Plus、SpringCloud ...
-
-集成部署：**✨Docker（强烈推荐👍🏻）**
-
-开发工具：IntelliJ IDEA、VS Code
-
-环境：Mac、Windows、Git
